@@ -1,0 +1,76 @@
+
+body {
+    color: black;
+    background-color: lightcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul a {
+    color: black;
+    text-decoration: none;
+}
+li {
+    display: inline-block;
+    padding: 12px;
+    border: 1px green solid;
+    
+}
+li:hover {
+    background-color: red;
+}
+.intext {
+    color: black;
+}
+
+.gegevens { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tekst img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gegevens { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+input, label, button, textarea {
+    display: block;
+    padding: 5px;
+    
+}
+
+button {
+    display: block;
+    margin-top: 4px;
+}
+
+button:active {
+    opacity: 0.5;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+}
